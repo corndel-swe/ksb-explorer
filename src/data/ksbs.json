@@ -1,0 +1,267 @@
+[
+  {
+    "Code": "B1",
+    "AssessmentMethod": "AM2",
+    "Description": "Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges",
+    "GradingCriteria": "Describes, how they have operated independently to complete tasks to given deadlines which reflect the level of responsibility assigned to them by the organisation’. (B1)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B2",
+    "AssessmentMethod": "AM1",
+    "Description": "Applies logical thinking. For example, uses clear and valid reasoning when making decisions related to undertaking work instructions",
+    "GradingCriteria": "Establishes a logical thinking approach to areas of work which require valid reasoning and/or justified decision making’ (B2)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B3",
+    "AssessmentMethod": "AM1",
+    "Description": "Maintains a productive, professional and secure working environment",
+    "GradingCriteria": "Describes how they have maintained a productive, professional and secure working environment throughout the project activity (B3)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B4",
+    "AssessmentMethod": "AM2",
+    "Description": "Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity",
+    "GradingCriteria": "Illustrates how they have worked collaboratively with people in different roles, internally and externally, which show a positive attitude to inclusion & diversity. (B4)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B5",
+    "AssessmentMethod": "AM2",
+    "Description": "Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security",
+    "GradingCriteria": "Explains how they have established an approach in the workplace which reflects integrity with respect to ethical, legal, and regulatory matters and ensures the protection of personal data, safety and security. (B5)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B6",
+    "AssessmentMethod": "AM2",
+    "Description": "Shows initiative and takes responsibility for solving problems within their own remit, being resourceful when faced with a problem to solve",
+    "GradingCriteria": "Illustrates their approach to meeting unexpected minor changes at work and outlines their approach to delivering within their remit using their initiative. (B6)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B7",
+    "AssessmentMethod": "AM2",
+    "Description": "Communicates effectively in a variety of situations to both a technical and non-technical audience",
+    "GradingCriteria": "Explains how they have communicated effectively in a variety of situations to both a technical and non-technical audience. (B7)",
+    "DistinctionCriteria": "Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods (K4, S15, B7)"
+  },
+  {
+    "Code": "B8",
+    "AssessmentMethod": "AM2",
+    "Description": "Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions",
+    "GradingCriteria": "Illustrates how they have responded to the business context with curiosity to explore new opportunities and techniques with tenacity to improve solution performance, establishing an approach to methods and solutions which reflects a determination to succeed (B8)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "B9",
+    "AssessmentMethod": "AM2",
+    "Description": "Committed to continued professional development",
+    "GradingCriteria": "Explains how they reflect on their continued professional development and act independently to seek out new opportunities (B9)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K1",
+    "AssessmentMethod": "AM2",
+    "Description": "All stages of the software development life-cycle (what each stage contains, including the inputs and outputs)",
+    "GradingCriteria": "Describes all stages of the software development lifecycle (K1)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K10",
+    "AssessmentMethod": "AM2",
+    "Description": "principles and uses of relational and non-relational databases",
+    "GradingCriteria": "Applies the principles and uses of relational and non-relational databases to software development tasks (K10)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K11",
+    "AssessmentMethod": "AM1",
+    "Description": "software designs and functional or technical specifications",
+    "GradingCriteria": "Reviews methods of software design with reference to functional/technical specifications and applies a justified approach to software development (K11, S11, S12)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K12",
+    "AssessmentMethod": "AM2",
+    "Description": "software testing frameworks and methodologies",
+    "GradingCriteria": "Describes basic software testing frameworks and methodologies (K12)",
+    "DistinctionCriteria": "Evaluates the use of various software testing frameworks and methodologies and justifies their choice. (K12)"
+  },
+  {
+    "Code": "K2",
+    "AssessmentMethod": "AM1",
+    "Description": "roles and responsibilities within the software development lifecycle (who is responsible for what)",
+    "GradingCriteria": "Explains the roles and responsibilities of all people working in the software development lifecycle, and how they relate to the project (K2)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K3",
+    "AssessmentMethod": "AM2",
+    "Description": "the roles and responsibilities of the project life-cycle within your organisation, and your role",
+    "GradingCriteria": "Describes the roles and responsibilities of the project lifecycle within their organisation, and their role (K3)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K4",
+    "AssessmentMethod": "AM2",
+    "Description": "how best to communicate using the different communication methods and how to adapt appropriately to different audiences",
+    "GradingCriteria": "Describes methods of communicating with all stakeholders that is determined by the audience and/or their level of technical knowledge. (K4, S15)",
+    "DistinctionCriteria": "Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods (K4, S15, B7)"
+  },
+  {
+    "Code": "K5",
+    "AssessmentMethod": "AM2",
+    "Description": "the similarities and differences between different software development methodologies, such as agile and waterfall.",
+    "GradingCriteria": "Describes the similarities and differences between different software methodologies, such as agile and waterfall (K5)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K6",
+    "AssessmentMethod": "AM1",
+    "Description": "how teams work effectively to produce software and how to contribute appropriately",
+    "GradingCriteria": "Outlines how teams work effectively to produce software and how to contribute appropriately (K6)",
+    "DistinctionCriteria": "Compare and contrast the requirements of a software development team, and how they would ensure that each member (including themselves) were able to make a contribution (K6)"
+  },
+  {
+    "Code": "K7",
+    "AssessmentMethod": "AM2",
+    "Description": "software design approaches and patterns, to identify reusable solutions to commonly occurring problems",
+    "GradingCriteria": "Suggests and applies different software design approaches and patterns, to identify reusable solutions to commonly occurring problems (include Bespoke or off-the-shelf) (K7)",
+    "DistinctionCriteria": "Evaluates and recommends approaches to using reusable solutions to common problems. (K7)"
+  },
+  {
+    "Code": "K8",
+    "AssessmentMethod": "AM2",
+    "Description": "organisational policies and procedures relating to the tasks being undertaken, and when to follow them. For example the storage and treatment of GDPR sensitive data",
+    "GradingCriteria": "Explains the relevance of organisational policies and procedures relating to the tasks being undertaken, and when to follow them including how they have followed company, team or client approaches to continuous integration, version, and source control (K8 S14)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "K9",
+    "AssessmentMethod": "AM1",
+    "Description": "algorithms, logic and data structures relevant to software development for example:- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions",
+    "GradingCriteria": "Outlines and applies the rationale and use of algorithms, logic and data structures. (K9, S16)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S1",
+    "AssessmentMethod": "AM1",
+    "Description": "create logical and maintainable code",
+    "GradingCriteria": "Creates logical and maintainable code to deliver project outcomes, explaining their choice of approach. (S1)",
+    "DistinctionCriteria": "Evaluates the advantages and disadvantages of different coding and programming techniques to create logical and maintainable code (S1)"
+  },
+  {
+    "Code": "S10",
+    "AssessmentMethod": "AM1",
+    "Description": "build, manage and deploy code into the relevant environment",
+    "GradingCriteria": "Reviews and justifies their contribution to building, managing and deploying code into the relevant environment in accordance with the project specification (S10)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S11",
+    "AssessmentMethod": "AM1",
+    "Description": "apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or procedural)",
+    "GradingCriteria": "Reviews methods of software design with reference to functional/technical specifications and applies a justified approach to software development (K11, S11, S12)",
+    "DistinctionCriteria": "Evaluates different software development approaches in order justifying the best alignment with a given paradigm. (for example, object oriented, event driven or procedural) (S11)"
+  },
+  {
+    "Code": "S12",
+    "AssessmentMethod": "AM1",
+    "Description": "follow software designs and functional or technical specifications",
+    "GradingCriteria": "Reviews methods of software design with reference to functional/technical specifications and applies a justified approach to software development (K11, S11, S12)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S13",
+    "AssessmentMethod": "AM2",
+    "Description": "follow testing frameworks and methodologies",
+    "GradingCriteria": "Illustrates how to conduct test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing including how they have followed testing frameworks and methodologies (S5, S13)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S14",
+    "AssessmentMethod": "AM2",
+    "Description": "follow company, team or client approaches to continuous integration, version and source control",
+    "GradingCriteria": "Explains the relevance of organisational policies and procedures relating to the tasks being undertaken, and when to follow them including how they have followed company, team or client approaches to continuous integration, version, and source control (K8 S14)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S15",
+    "AssessmentMethod": "AM2",
+    "Description": "communicate software solutions and ideas to technical and non-technical stakeholders",
+    "GradingCriteria": "Describes methods of communicating with all stakeholders that is determined by the audience and/or their level of technical knowledge. (K4, S15)",
+    "DistinctionCriteria": "Compares and contrasts the different types of communication used for technical and non-technical audiences and the benefits of these types of communication methods (K4, S15, B7)"
+  },
+  {
+    "Code": "S16",
+    "AssessmentMethod": "AM1",
+    "Description": "apply algorithms, logic and data structures",
+    "GradingCriteria": "Outlines and applies the rationale and use of algorithms, logic and data structures. (K9, S16)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S17",
+    "AssessmentMethod": "AM2",
+    "Description": "interpret and implement a given design whist remaining compliant with security and maintainability requirements",
+    "GradingCriteria": "Explains, how they have interpreted and implemented a given design whilst remaining compliant with security and maintainability requirements (S17)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S2",
+    "AssessmentMethod": "AM2",
+    "Description": "develop effective user interfaces",
+    "GradingCriteria": "Explains, their own approach to development of user interfaces (S2)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S3",
+    "AssessmentMethod": "AM2",
+    "Description": "link code to data sets",
+    "GradingCriteria": "Explains, how they have linked code to data sets (S3)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S4",
+    "AssessmentMethod": "AM1",
+    "Description": "test code and analyse results to correct errors found using unit testing",
+    "GradingCriteria": "Analyses unit testing results and reviews the outcomes correcting errors. (S4)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S5",
+    "AssessmentMethod": "AM2",
+    "Description": "conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing",
+    "GradingCriteria": "Illustrates how to conduct test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing including how they have followed testing frameworks and methodologies (S5, S13)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S6",
+    "AssessmentMethod": "AM1",
+    "Description": "identify and create test scenarios",
+    "GradingCriteria": "Identifies and creates test scenarios which satisfy the project specification (S6)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S7",
+    "AssessmentMethod": "AM1",
+    "Description": "apply structured techniques to problem solving, debug code and understand the structure of programmes in order to identify and resolve issues",
+    "GradingCriteria": "Applies structured techniques to problem solving to identify and resolve issues and debug basic flaws in code (S7)",
+    "DistinctionCriteria": "Analyses the software to identify and debug complex issues using a fix that provides a permanent solution. (S7)"
+  },
+  {
+    "Code": "S8",
+    "AssessmentMethod": "AM2",
+    "Description": "create simple software designs to effectively communicate understanding of the program",
+    "GradingCriteria": "Creates simple software designs to communicate understanding of the programme to stakeholders and users of the programme (S8)",
+    "DistinctionCriteria": ""
+  },
+  {
+    "Code": "S9",
+    "AssessmentMethod": "AM2",
+    "Description": "create analysis artefacts, such as use cases and/or user stories",
+    "GradingCriteria": "Creates analysis artefacts, such as use cases and/or user stories to enable effective delivery of software activities (S9)"
+  }
+]
