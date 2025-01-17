@@ -85,5 +85,16 @@ Your challenge, then, is to:
 > [!TIP]
 >
 > You will almost certainly be using
-> [map](https://tech-docs.corndel.com/js/array-map.html) and
+> [map](https://tech-docs.corndel.com/js/array-map.html) and perhaps
 > [filter](https://tech-docs.corndel.com/js/array-filter.html)
+
+> [!TIP]
+>
+> Try `useState` to create a piece of state for the query string, and a piece of
+> state for the results array.
+
+> [!TIP]
+>
+> Try `useEffect` to make sure the results array changes whenever the query
+> string changes. Be sure to add the user query string to the dependency array
+> of the useEffect.
