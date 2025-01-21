@@ -65,14 +65,16 @@ It's recommended to make two React components: one component which displays a
 single KSB nicely, and another component which displays the list of KSBs.
 
 You may benefit from some extra reading if you're struggling:
+- [Creating and nesting components](https://react.dev/learn#components)
 - [JavaScript in JSX with Curly Braces](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
 - [Rendering Lists](https://react.dev/learn/rendering-lists)
 
 > [!TIP]
 >
-> Struggling with where to start? Trying creating a component that just
-> contains the paragraph elements `<p>`. Then, create another component that
-> creates the list, itself rendering the previous component.
+> Struggling with where to start? Try creating a component that just contains
+> the paragraph elements `<p>`. Then, create another component that creates the
+> the list `<li>`, itself rendering the previous component. (This is a "nested
+> component".)
 
 ### Level 2
 
