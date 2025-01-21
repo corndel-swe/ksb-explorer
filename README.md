@@ -68,6 +68,12 @@ You may benefit from some extra reading if you're struggling:
 - [JavaScript in JSX with Curly Braces](https://react.dev/learn/javascript-in-jsx-with-curly-braces)
 - [Rendering Lists](https://react.dev/learn/rendering-lists)
 
+> [!TIP]
+>
+> Struggling with where to start? Trying creating a component that just
+> contains the paragraph elements `<p>`. Then, create another component that
+> creates the list, itself rendering the previous component.
+
 ### Level 2
 
 Once the components are working, try adding some CSS to make the whole thing a
