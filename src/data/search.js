@@ -1,21 +1,19 @@
-import lunr from 'lunr'
-import fs from 'fs/promises'
+import lunr from "lunr";
 
-const url = new URL('./ksbs.json', import.meta.url)
-const json = await fs.readFile(url, 'utf-8')
-const ksbs = JSON.parse(json)
+const response = await fetch("./src/data/ksbs.json");
+const ksbs = await response.json();
 
 const idx = lunr(function () {
-  this.ref('Code')
+  this.ref("Code");
 
-  this.field('Code')
-  this.field('Description')
-  this.field('GradingCriteria')
-  this.field('DistinctionCriteria')
+  this.field("Code");
+  this.field("Description");
+  this.field("GradingCriteria");
+  this.field("DistinctionCriteria");
 
   ksbs.forEach(function (ksb) {
-    this.add(ksb)
-  }, this)
-})
+    this.add(ksb);
+  }, this);
+});
 
-export default idx
+export default idx;
