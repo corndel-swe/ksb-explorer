@@ -107,10 +107,10 @@ Results are ordered by score by default.
 
 Your challenge, then, is to:
 
-- [ ] add a textbox which will filter the displayed KSBs according to the user's
+- [x] add a textbox which will filter the displayed KSBs according to the user's
       search term
 
-- [ ] but if the textbox is empty, show all the KSBs
+- [x] but if the textbox is empty, show all the KSBs
 
 > [!TIP]
 >
