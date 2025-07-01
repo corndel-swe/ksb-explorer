@@ -42,7 +42,7 @@ First things first, do some independent learning about React!
 1. Peruse the [React Quick Start](https://react.dev/learn#next-steps). You
 don't need to read and understand *all* of this. You'll refer back to what you
 need, when you need it.
-1. Read Your First Component and practice the challenges at the bottom of the
+1. Read [Your First Component](https://react.dev/learn/your-first-component) and practice the challenges at the bottom of the
 page.
 1. Choose your own adventure!
    1. Do "Moving on" below if you want a more free-form learning challenge
